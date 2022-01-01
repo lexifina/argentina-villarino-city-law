@@ -1,0 +1,6 @@
+Ordenanza Nº3671
+Ordenanza Nº 3671
+Villarino, 15/12/2021
+VISTO el asunto n° 13.488: “Intendente municipal Carlos Bevilacqua informa que hará uso de licencia por motivos médicos entre los días 07 de diciembre y hasta el 19 de diciembre, inclusive, del año 2021”.
+Y CONSIDERANDO 1) Que, en virtud de lo establecido por el Artículo 108 Inc. 13) del Decreto-Ley 6769/58 -Ley Orgánica de las Municipalidades-, “Constituyen atribuciones y deberes en general del Departamento Ejecutivo… solicitar licencia al Concejo en caso de ausencia mayor de cinco días; 2) Que, el plazo de la licencia solicitada se encuentra dentro del establecido en el artículo citado; 3) Que, el Artículo 15 del Decreto-Ley 6769/58 -Ley Orgánica de las Municipalidades-, establece el procedimiento de reemplazo; 4) Que, en virtud de lo ut-supra señalado y en relación a lo establecido en los Artículos 15, 16 y 108 Inc. 13) del Decreto-Ley 6769/58 -Ley Orgánica de las Municipalidades-, se eleva el presente a fin de que se autorice al Sr. Intendente Municipal a hacer uso de licencia por motivos médicos desde el 07 de diciembre hasta el 19 del mismo mes del año 2021, 5) que fue tratado sobre tablas y aprobado por la totalidad de los Señores Concejales Presentes, reunidos en Sesión Ordinaria de Prórroga celebrada el día 15 de diciembre de 2021.
+ORDENANZA
