@@ -1,0 +1,6 @@
+Ordenanza Nº3765
+Ordenanza Nº 3765
+Villarino, 27/04/2022
+VISTO el asunto n° 13.526: Secretario de Gobierno, Sr. Gonzalo Silva, informa sobre prórroga de licencia del Sr. Intendente Municipal, por Covid Positivo.
+Y CONSIDERANDO 1) Que, en virtud de lo establecido por el Artículo 108 Inc. 13) del Decreto-Ley 6769/58 -Ley Orgánica de las Municipalidades-, “Constituyen atribuciones y deberes en general del Departamento Ejecutivo… solicitar licencia al Concejo en caso de ausencia mayor de cinco días; 2) Que, el plazo de la licencia solicitada se encuentra dentro del establecido en el artículo citado; 3) Que, el Artículo 15 del Decreto-Ley 6769/58 -Ley Orgánica de las Municipalidades-, establece el procedimiento de reemplazo; 4) Que, en virtud de lo ut-supra señalado y en relación a lo establecido en los Artículos 15, 16 y 108 Inc. 13, del Decreto-Ley 6769/58 -Ley Orgánica de las Municipalidades-, se eleva el presente a fin de que se autorice al Sr. Intendente Municipal a extender la licencia por motivos médicos desde el 24 de enero y hasta el alta médica, 5) que el dictamen de la Comisión de Legislación recomendó, por mayoría, su aprobación.6) Que el mismo ha sido aprobado por la totalidad de los Señores Concejales Presentes, reunidos en Sesión Ordinaria celebrada el día 27 de abril de 2022.
+ORDENANZA
