@@ -1,0 +1,6 @@
+Ordenanza Nº3812
+Ordenanza Nº 3812
+Villarino, 13/07/2022
+VISTO el Asunto N° 13.789: “Intendente Municipal Carlos Bevilacqua comunica que hará uso de su licencia a partir del 1° de agosto hasta el 31 de agosto de 2022”.
+Y CONSIDERANDO 1) Que en virtud de lo establecido por el Artículo 108 Inc. 13) del Decreto-Ley 6769/58 -Ley Orgánica de las Municipalidades-, “Constituyen atribuciones y deberes en general del Departamento Ejecutivo…solicitar licencia al Concejo en caso de ausencia mayor de cinco días; 2) Que el plazo de la licencia solicitada se encuentra dentro del establecido en el artículo citado; 3) Que, el Artículo 15 del Decreto-Ley 6769/58 -Ley Orgánica de las Municipalidades-, establece el procedimiento de reemplazo; 4) Que en virtud de lo ut-supra señalado y en relación a lo establecido en los Artículos 15, 16 y 108 Inc. 13) del Decreto-Ley 6769/58 -Ley Orgánica de las Municipalidades-, se eleva el presente a fin de que se autorice al Sr. Intendente Municipal a hacer uso de licencia desde lunes 18 de enero hasta el 31 de mismo mes del año 2021. 5) Que el dictamen de la Comisión de Legislación recomendó, por mayoría, su aprobación. 6) Que el mismo ha sido aprobado por la totalidad de los Señores Concejales Presentes, reunidos en Sesión Ordinaria celebrada el día 13 de julio de 2022.
+ORDENANZA
