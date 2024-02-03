@@ -1,0 +1,2 @@
+ARTÍCULO 28° quarter: Por los servicios de los Centros de Desarrollo Infantil de todo el distrito:
+Por jornada completa (jornada de 8 horas): 40% del Salario Mínimo Vital y Móvil. Dicha cifra se actualizará de forma trimestral. Cabe destacar que se exceptuará de dicha tasa a los beneficiarios de los convenios vigentes con el Estado Nacional y Provincial, así como quienes en virtud de Informe Social elaborado por profesionales Trabajadores Sociales de la Secretaría de Desarrollo Social corresponda la eximición de la misma.
