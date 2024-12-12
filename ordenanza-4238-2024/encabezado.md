@@ -1,0 +1,6 @@
+Ordenanza Nº4238
+Ordenanza Nº 4238
+Villarino, 27/11/2024
+VISTO el Asunto N°14.838: Sr. Intendente Municipal, Dr. Carlos Bevilacqua solicita el uso de licencia desde el 16 de diciembre al 31 de diciembre del corriente por razones personales.
+Y CONSIDERANDO 1) Que, en virtud de lo establecido por el Artículo 108 Inc. 13) del Decreto-Ley 6769/58 -Ley Orgánica de las Municipalidades-, “Constituyen atribuciones y deberes en general del Departamento Ejecutivo… solicitar licencia al Concejo en caso de ausencia mayor de cinco días; 2) Que, el plazo de la licencia solicitada se encuentra dentro del establecido en el artículo citado; 3) Que, el Artículo 15 del Decreto-Ley 6769/58 -Ley Orgánica de las Municipalidades-, establece el procedimiento de reemplazo; 4) Que, en virtud de lo ut-supra señalado y en relación a lo establecido en los Artículos 15, 16 y 108 Inc. 13) del Decreto-Ley 6769/58 -Ley Orgánica de las Municipalidades-, se eleva el presente a fin de que se autorice al Sr. Intendente Municipal a hacer uso de licencia desde el lunes 16 de diciembre hasta el 31 de diciembre del año 2024, 5) Que el dictamen de la Comisión de Legislación recomendó, por unanimidad, su aprobación. 6) Que el mismo ha sido aprobado por la totalidad de los Señores Concejales Presentes, reunidos en Sesión Ordinaria celebrada el día 27 de noviembre de 2024.
+ORDENANZA
