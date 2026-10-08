@@ -1,0 +1,6 @@
+Ordenanza Nº4475
+Ordenanza Nº 4475
+Villarino, 23/07/2026
+el Asunto Nº 15.725 Sr. Intendente Municipal Dr. Carlos Bevilacqua informa su ausencia por razones particulares desde el día 14 al 18 de septiembre del corriente año.
+Y CONSIDERANDO 1) Que, en virtud de lo establecido por el Artículo 108 Inc. 13) del Decreto-Ley 6769/58 -Ley Orgánica de las Municipalidades-, “Constituyen atribuciones y deberes en general del Departamento Ejecutivo… solicitar licencia al Concejo en caso de ausencia mayor de cinco días; 2) Que, el plazo de la licencia solicitada se encuentra dentro del establecido en el artículo citado; 3) Que, el Artículo 15 del Decreto-Ley 6769/58 -Ley Orgánica de las Municipalidades-, establece el procedimiento de reemplazo; 4) Que, en virtud de lo señalado ut-supra y en relación a lo establecido en los Artículos 15, 16 y 108 Inc. 13) del Decreto-Ley 6769/58 -Ley Orgánica de las Municipalidades-, se eleva el presente a fin de que se autorice al Sr. Intendente Municipal a hacer uso de licencia desde el día 14 al 18 de septiembre del corriente año., 5) Que el dictamen de la Comisión de Legislación recomendó, por unanimidad, su aprobación. 6) Que ha sido tratado sobre tablas y aprobado con el voto de la totalidad de los Señores Concejales presentes, reunidos en Sesión Ordinaria celebrada el día 23 de julio de 2026.
+ORDENANZA
