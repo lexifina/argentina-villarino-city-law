@@ -229,6 +229,27 @@
     "ordenanza-4512-2026"
    ],
    "sha256": "6f370dce3d0a760ffedf8454a6e3e29bf57bc5796312b453bc4ba764cf6d2e27"
+  },
+  "35-ordenanzas-06.json": {
+   "acts": [
+    "ordenanza-4398-2026",
+    "ordenanza-4406-2026",
+    "ordenanza-4432-2026",
+    "ordenanza-4434-2026",
+    "ordenanza-4446-2026",
+    "ordenanza-4452-2026",
+    "ordenanza-4453-2026",
+    "ordenanza-4456-2026",
+    "ordenanza-4461-2026",
+    "ordenanza-4467-2026",
+    "ordenanza-4472-2026",
+    "ordenanza-4473-2026",
+    "ordenanza-4501-2026",
+    "ordenanza-4507-2026",
+    "ordenanza-4508-2026",
+    "ordenanza-4516-2026"
+   ],
+   "sha256": "e9d46dbbb88d8609eba8f385b4cef8dd8157f537e1c12efdb978bcd0e7c18162"
   }
  },
  "schema": 1

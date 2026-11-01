@@ -219,20 +219,36 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-4503-2026` | Ordenanza 4503/2026: Declárese de Interés Municipal la Instancia Distrital del Programa Provincial "Parlamento Juvenil del Mercosur", que se llevará a cabo por las escuelas de nivel secundario del Partido de Villarino en el recinto del Honor | 1 | 2026-10-31 to 2026-10-31 |
 | `ordenanza-4509-2026` | Ordenanza 4509/2026: Créase el Programa Municipal de Actividades Recreativas, Culturales y Deportivas "Día de la Primavera 2026", destinado a los Jóvenes y familias del partido de Villarino. | 1 | 2026-10-31 to 2026-10-31 |
 | `ordenanza-4512-2026` | Ordenanza 4512/2026: Dispónese la colocación de un reductor físico de velocidad en calle 36, en el tramo comprendido entre las calles 9 y 11 del Barrio Otondo de la localidad de Pedro Luro, conforme las condiciones técnicas que determine el  | 1 | 2026-10-31 to 2026-10-31 |
+| `ordenanza-4398-2026` | Ordenanza 4398/2026: Reconózcase públicamente a la Escuela de Danza "Our Dance" de Mayor Buratovich, a sus directoras Mariela Wener y Evelyn Wener, y a todas sus alumnas por los destacados resultados obtenidos en el "Torneo de Baile - Final  | 1 | 2026-01-15 to 2026-01-15 |
+| `ordenanza-4406-2026` | Ordenanza 4406/2026: Fíjese en la suma de Pesos setecientos ochenta y seis mil ciento ochenta y tres con 88/100 ($786.183.88), el sueldo básico de la categoría inferior del ingresante en el escalafón administrativo de la Municipalidad, en su | 1 | 2026-01-15 to 2026-01-15 |
+| `ordenanza-4456-2026` | Ordenanza 4456/2026: Autorízase al Departamento Ejecutivo Municipal a proceder a la instalación de dos reductores de velocidad, uno sobre calle 11 entre 24 y 26 y otro sobre la calle diagonal norte entre calle 24 y 26 de la localidad de Pedr | 1 | 2026-07-15 to 2026-07-15 |
+| `ordenanza-4461-2026` | Ordenanza 4461/2026: Acéptese la donación a favor de este Municipio del bien inmueble identificado Catastralmente como Circunscripción XVI, Sección Rural, Parcela 1914H, partida inmobiliaria Nº 111- 22153, con una superficie de 129 Has., 12  | 1 | 2026-07-15 to 2026-07-15 |
+| `ordenanza-4467-2026` | Ordenanza 4467/2026: Modifíquese el artículo 4 de la ordenanza 3237/2018, quedando redactado de la siguiente manera, “Dispóngase que los Trabajadores Municipales que revisten en las Plantas Permanentes con Estabilidad del Departamento Ejecut | 1 | 2026-10-08 to 2026-10-08 |
+| `ordenanza-4472-2026` | Ordenanza 4472/2026: Declárase de lnterés Municipal la Muestra Distrital de Carreras “Tu Próximo Paso, descubrí tu camino", a realizarse el día 26 de agosto de 2026 en el Centro de Deportes Municipal de la localidad de Médanos. | 1 | 2026-10-08 to 2026-10-08 |
+| `ordenanza-4473-2026` | Ordenanza 4473/2026: Declárase de lnterés Municipal el Programa Recreativo y Educativo “La Muni con Vos en Invierno”, durante el receso escolar de invierno del año 2026. | 1 | 2026-10-08 to 2026-10-08 |
+| `ordenanza-4432-2026` | Ordenanza 4432/2026: Declárese de Interés Municipal la conmemoración del 50º Aniversario de la Escuela de Educación Secundaria Agraria Nº 1 "Edith Mabel Sartori" de la localidad de Hilario Ascasubi, partido de Villarino, a celebrarse el día  | 1 | 2026-05-17 to 2026-05-17 |
+| `ordenanza-4434-2026` | Ordenanza 4434/2026: Autorizase la instalación de un reductor de velocidad en calle 2, entre calles 9 y 11, de la localidad de Hilario Ascasubi. | 1 | 2026-05-17 to 2026-05-17 |
+| `ordenanza-4446-2026` | Ordenanza 4446/2026: Autorízase al Departamento Ejecutivo Municipal a adjudicar a la empresa VIALINVERT S.A., CUIT 30-71192373-6, la Licitación Privada Nº 01/26 correspondiente a la “2º Etapa alteo y estabilización camino Chapalcó Vial” por  | 1 | 2026-06-12 to 2026-06-12 |
+| `ordenanza-4452-2026` | Ordenanza 4452/2026: Declárase de Interés Municipal la participación de estudiantes de la Escuela de Educación Secundaria Nº 4 General Don José de San Martín de la localidad de Juan Cousté en Olimpíadas de Matemática y Olimpíadas de Biología | 1 | 2026-06-12 to 2026-06-12 |
+| `ordenanza-4453-2026` | Ordenanza 4453/2026: Apruébese la compensación de partidas excedidas del Ejercicio 2025 contra economías en cuentas del mismo origen por el monto de Pesos Setecientos Cuarenta y Seis Millones Setecientos Veinticuatro Mil Seiscientos Dieciséi | 1 | 2026-06-12 to 2026-06-12 |
+| `ordenanza-4501-2026` | Ordenanza 4501/2026: Declárase de Interés Municipal el “Evento de Adultos Mayores”, y las actividades que en su marco se desarrollen, organizados por la Municipalidad de Villarino, a través de la Secretaría de Desarrollo Social y la Direcció | 1 | 2026-10-31 to 2026-10-31 |
+| `ordenanza-4507-2026` | Ordenanza 4507/2026: Declarase de Interés Municipal al Proyecto denominado “Energía que nace del viento y el reciclaje” realizado por los alumnos de Educación Profesional Secundaria de la E.E.S.T. N°1 de Mayor Buratovich. | 1 | 2026-10-31 to 2026-10-31 |
+| `ordenanza-4508-2026` | Ordenanza 4508/2026: Solicitar declarar de INTERÉS MUNICIPAL los festejos conmemorativos por el 45° Aniversario del Fogón Gaucho “El Badajo”, perteneciente al Fútbol y Tenis Club de la localidad de Mayor Buratovich, Partido de Villarino. | 1 | 2026-10-31 to 2026-10-31 |
+| `ordenanza-4516-2026` | Ordenanza 4516/2026: Autorícese la aceptación de la donación realizada por Asociación Cooperadora Hospital Juana Pradere de Luro, consistente en un Contador Hematológico MINDRAY BC-720 (Cantidad 1). | 1 | 2026-10-31 to 2026-10-31 |
 
-The build made 205 commits:
+The build made 221 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 205 | first version of an act |
+| 221 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-11-01.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 205 laws in the record.
-- 410 tags.
+- 221 laws in the record.
+- 442 tags.
 
 ## Dates
 
@@ -244,13 +260,13 @@ When a law gives no date of its own, the default rule applies: An ordinance take
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `dbb594277e39621e24118e3af58202befcc5cff12151cbf837fc4d86266e542d` (1441755 bytes).
+- Corpus: sha256 `c7efc1eccf0b3b2684c72cb535da1a335fc8fabc383eaf7e09429646e74b310a` (1521353 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-205 versions of 205 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
