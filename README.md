@@ -8,7 +8,7 @@ The text is in Spanish, exactly as the source prints it.
 
 ## What this repository holds
 
-205 ordinances so far, in force from 30 January 2019 to 31 October 2026, each as published in the Boletín Oficial Municipal de Villarino, added in parts.
+221 ordinances so far, in force from 30 January 2019 to 31 October 2026, each as published in the Boletín Oficial Municipal de Villarino, added in parts.
 
 | Folder | Ordinance | History |
 | --- | --- | --- |
@@ -217,6 +217,22 @@ The text is in Spanish, exactly as the source prints it.
 | `ordenanza-4503-2026/` | Ordenanza 4503/2026: Declárese de Interés Municipal la Instancia Distrital del Programa Provincial "Parlamento Juvenil del Mercosur", que se llevará a cabo por … | in force 31 October 2026 |
 | `ordenanza-4509-2026/` | Ordenanza 4509/2026: Créase el Programa Municipal de Actividades Recreativas, Culturales y Deportivas "Día de la Primavera 2026", destinado a los Jóvenes y fami… | in force 31 October 2026 |
 | `ordenanza-4512-2026/` | Ordenanza 4512/2026: Dispónese la colocación de un reductor físico de velocidad en calle 36, en el tramo comprendido entre las calles 9 y 11 del Barrio Otondo d… | in force 31 October 2026 |
+| `ordenanza-4398-2026/` | Ordenanza 4398/2026: Reconózcase públicamente a la Escuela de Danza "Our Dance" de Mayor Buratovich, a sus directoras Mariela Wener y Evelyn Wener, y a todas su… | in force 15 January 2026 |
+| `ordenanza-4406-2026/` | Ordenanza 4406/2026: Fíjese en la suma de Pesos setecientos ochenta y seis mil ciento ochenta y tres con 88/100 ($786.183.88), el sueldo básico de la categoría … | in force 15 January 2026 |
+| `ordenanza-4456-2026/` | Ordenanza 4456/2026: Autorízase al Departamento Ejecutivo Municipal a proceder a la instalación de dos reductores de velocidad, uno sobre calle 11 entre 24 y 26… | in force 15 July 2026 |
+| `ordenanza-4461-2026/` | Ordenanza 4461/2026: Acéptese la donación a favor de este Municipio del bien inmueble identificado Catastralmente como Circunscripción XVI, Sección Rural, Parce… | in force 15 July 2026 |
+| `ordenanza-4467-2026/` | Ordenanza 4467/2026: Modifíquese el artículo 4 de la ordenanza 3237/2018, quedando redactado de la siguiente manera, “Dispóngase que los Trabajadores Municipale… | in force 8 October 2026 |
+| `ordenanza-4472-2026/` | Ordenanza 4472/2026: Declárase de lnterés Municipal la Muestra Distrital de Carreras “Tu Próximo Paso, descubrí tu camino", a realizarse el día 26 de agosto de … | in force 8 October 2026 |
+| `ordenanza-4473-2026/` | Ordenanza 4473/2026: Declárase de lnterés Municipal el Programa Recreativo y Educativo “La Muni con Vos en Invierno”, durante el receso escolar de invierno del … | in force 8 October 2026 |
+| `ordenanza-4432-2026/` | Ordenanza 4432/2026: Declárese de Interés Municipal la conmemoración del 50º Aniversario de la Escuela de Educación Secundaria Agraria Nº 1 "Edith Mabel Sartori… | in force 17 May 2026 |
+| `ordenanza-4434-2026/` | Ordenanza 4434/2026: Autorizase la instalación de un reductor de velocidad en calle 2, entre calles 9 y 11, de la localidad de Hilario Ascasubi. | in force 17 May 2026 |
+| `ordenanza-4446-2026/` | Ordenanza 4446/2026: Autorízase al Departamento Ejecutivo Municipal a adjudicar a la empresa VIALINVERT S.A., CUIT 30-71192373-6, la Licitación Privada Nº 01/26… | in force 12 June 2026 |
+| `ordenanza-4452-2026/` | Ordenanza 4452/2026: Declárase de Interés Municipal la participación de estudiantes de la Escuela de Educación Secundaria Nº 4 General Don José de San Martín de… | in force 12 June 2026 |
+| `ordenanza-4453-2026/` | Ordenanza 4453/2026: Apruébese la compensación de partidas excedidas del Ejercicio 2025 contra economías en cuentas del mismo origen por el monto de Pesos Setec… | in force 12 June 2026 |
+| `ordenanza-4501-2026/` | Ordenanza 4501/2026: Declárase de Interés Municipal el “Evento de Adultos Mayores”, y las actividades que en su marco se desarrollen, organizados por la Municip… | in force 31 October 2026 |
+| `ordenanza-4507-2026/` | Ordenanza 4507/2026: Declarase de Interés Municipal al Proyecto denominado “Energía que nace del viento y el reciclaje” realizado por los alumnos de Educación P… | in force 31 October 2026 |
+| `ordenanza-4508-2026/` | Ordenanza 4508/2026: Solicitar declarar de INTERÉS MUNICIPAL los festejos conmemorativos por el 45° Aniversario del Fogón Gaucho “El Badajo”, perteneciente al F… | in force 31 October 2026 |
+| `ordenanza-4516-2026/` | Ordenanza 4516/2026: Autorícese la aceptación de la donación realizada por Asociación Cooperadora Hospital Juana Pradere de Luro, consistente en un Contador Hem… | in force 31 October 2026 |
 
 ## Source
 

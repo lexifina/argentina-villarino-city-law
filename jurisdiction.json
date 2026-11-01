@@ -5,7 +5,7 @@
   "level": "municipality",
   "parent": "ar-b",
   "repo": "https://github.com/lexifina/argentina-villarino-city-law",
-  "build": "built: municipal ordinances (205 ordinances, 205 versions) from https://sibom.slyt.gba.gob.ar/cities/133",
+  "build": "built: municipal ordinances (221 ordinances, 221 versions) from https://sibom.slyt.gba.gob.ar/cities/133",
   "language": "es",
   "sources": 1
 }
